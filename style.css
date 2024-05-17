@@ -1,3 +1,44 @@
-p{
-    color:red;
-}
+#mainbox{
+    border:1px solid #ccc;
+    padding:10px;
+  }
+  
+  
+  .custom-input {
+    width: 300px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    font-size: 16px;
+  }
+  
+  .custom-text {
+    width: 300px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    font-size: 16px;
+  }
+  
+  .button {
+    background-color: #42b72a;
+    color: white;
+    width: 150px;
+    height: 30px;
+    border-radius: 10px;
+    cursor: pointer;
+  }
+  
+  .button2 {
+    background-color: #42b72a;
+    color: white;
+    width: 156px;
+    height: 30px;
+    border-radius: 10px;
+  }
+  
+  a {
+    width: 56px;
+    text-decoration: none;
+    padding: 13px;
+  }
