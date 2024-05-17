@@ -2,10 +2,13 @@
     border:1px solid #ccc;
     padding:10px;
     width:350px;
+    margin-left:450px;
+    margin-top:200px;
   }
   
   
   .custom-input {
+    margin-left:13px;
     width: 300px;
     padding: 10px;
     border: 1px solid #ccc;
@@ -14,6 +17,7 @@
   }
   
   .custom-text {
+    margin-left:13px;
     width: 300px;
     padding: 10px;
     border: 1px solid #ccc;
@@ -29,6 +33,8 @@
     border: 1px solid #ccc;
     border-radius: 5px;
     font-size: 16px;
+    margin-left:13px;
+    cursor:pointer;
   }
   
   .button2 {
@@ -38,10 +44,16 @@
     height: 30px;
     border-radius: 5px;
     border:1px solid #ccc;
+    margin-left:70px;
+    margin-top:15px;
+    cursor:pointer;
+    line-height: 16px;
   }
   
   a {
-    width: 56px;
+    margin-top:80px;
     text-decoration: none;
     padding: 13px;
+    margin-left:100px;
+
   }
